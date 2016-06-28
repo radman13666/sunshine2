@@ -1,0 +1,591 @@
+06-10 15:02:41.667 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: Late-enabling CheckJNI
+06-10 15:02:41.827 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.content.Context.getSystemService, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.827 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 450: Landroid/content/Context;.getSystemService (Ljava/lang/Class;)Ljava/lang/Object;
+06-10 15:02:41.827 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x004b
+06-10 15:02:41.827 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.stopLockTask, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.827 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 246: Landroid/app/Activity;.stopLockTask ()V
+06-10 15:02:41.827 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x00b9
+06-10 15:02:41.827 17785-17785/com.radindustries.radman.sunshine2 E/dalvikvm: Could not find class 'android.os.PersistableBundle', referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.827 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve check-cast 233 (Landroid/os/PersistableBundle;) in Lcom/radindustries/radman/sunshine2/MainActivity;
+06-10 15:02:41.827 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x1f at 0x00f1
+06-10 15:02:41.827 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.content.Context.getColorStateList, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.827 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 432: Landroid/content/Context;.getColorStateList (I)Landroid/content/res/ColorStateList;
+06-10 15:02:41.827 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0101
+06-10 15:02:41.827 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.onVisibleBehindCanceled, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.827 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 169: Landroid/app/Activity;.onVisibleBehindCanceled ()V
+06-10 15:02:41.827 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0111
+06-10 15:02:41.827 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.onWindowStartingActionMode, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.827 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 173: Landroid/app/Activity;.onWindowStartingActionMode (Landroid/view/ActionMode$Callback;I)Landroid/view/ActionMode;
+06-10 15:02:41.827 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0137
+06-10 15:02:41.827 17785-17785/com.radindustries.radman.sunshine2 E/dalvikvm: Could not find class 'android.os.PersistableBundle', referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.827 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve check-cast 233 (Landroid/os/PersistableBundle;) in Lcom/radindustries/radman/sunshine2/MainActivity;
+06-10 15:02:41.827 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x1f at 0x019a
+06-10 15:02:41.827 17785-17785/com.radindustries.radman.sunshine2 E/dalvikvm: Could not find class 'android.media.session.MediaController', referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.827 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve check-cast 191 (Landroid/media/session/MediaController;) in Lcom/radindustries/radman/sunshine2/MainActivity;
+06-10 15:02:41.827 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x1f at 0x01b2
+06-10 15:02:41.827 17785-17785/com.radindustries.radman.sunshine2 E/dalvikvm: Could not find class 'android.widget.Toolbar', referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.827 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve check-cast 2302 (Landroid/widget/Toolbar;) in Lcom/radindustries/radman/sunshine2/MainActivity;
+06-10 15:02:41.827 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x1f at 0x01bc
+06-10 15:02:41.837 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.releaseInstance, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.837 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 180: Landroid/app/Activity;.releaseInstance ()Z
+06-10 15:02:41.837 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x02dd
+06-10 15:02:41.837 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.onActivityReenter, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.837 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 121: Landroid/app/Activity;.onActivityReenter (ILandroid/content/Intent;)V
+06-10 15:02:41.837 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x02f4
+06-10 15:02:41.837 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.content.ContextWrapper.getCodeCacheDir, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.837 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 502: Landroid/content/ContextWrapper;.getCodeCacheDir ()Ljava/io/File;
+06-10 15:02:41.837 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0349
+06-10 15:02:41.837 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/FragmentActivity;.dispatchFragmentsOnCreateView (Landroid/view/View;Ljava/lang/String;Landroid/content/Context;Landroid/util/AttributeSet;)Landroid/view/View; from Lcom/radindustries/radman/sunshine2/MainActivity;)
+06-10 15:02:41.837 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.FragmentActivity.dispatchFragmentsOnCreateView, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.837 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4192: Landroid/support/v4/app/FragmentActivity;.dispatchFragmentsOnCreateView (Landroid/view/View;Ljava/lang/String;Landroid/content/Context;Landroid/util/AttributeSet;)Landroid/view/View;
+06-10 15:02:41.837 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0432
+06-10 15:02:41.837 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.getVoiceInteractor, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.837 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 100: Landroid/app/Activity;.getVoiceInteractor ()Landroid/app/VoiceInteractor;
+06-10 15:02:41.837 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0490
+06-10 15:02:41.837 17785-17785/com.radindustries.radman.sunshine2 E/dalvikvm: Could not find class 'android.app.ActivityManager$TaskDescription', referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.837 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve check-cast 23 (Landroid/app/ActivityManager$TaskDescription;) in Lcom/radindustries/radman/sunshine2/MainActivity;
+06-10 15:02:41.837 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x1f at 0x055b
+06-10 15:02:41.837 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.startActionMode, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.837 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 221: Landroid/app/Activity;.startActionMode (Landroid/view/ActionMode$Callback;I)Landroid/view/ActionMode;
+06-10 15:02:41.837 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0596
+06-10 15:02:41.837 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.showAssist, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.837 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 216: Landroid/app/Activity;.showAssist (Landroid/os/Bundle;)Z
+06-10 15:02:41.837 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x05d8
+06-10 15:02:41.837 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.postponeEnterTransition, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.837 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 177: Landroid/app/Activity;.postponeEnterTransition ()V
+06-10 15:02:41.837 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x05e3
+06-10 15:02:41.847 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.content.ContextWrapper.getNoBackupFilesDir, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.847 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 514: Landroid/content/ContextWrapper;.getNoBackupFilesDir ()Ljava/io/File;
+06-10 15:02:41.847 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0672
+06-10 15:02:41.847 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.requestPermissions, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.847 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 183: Landroid/app/Activity;.requestPermissions ([Ljava/lang/String;I)V
+06-10 15:02:41.847 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0787
+06-10 15:02:41.847 17785-17785/com.radindustries.radman.sunshine2 E/dalvikvm: Could not find class 'android.app.SharedElementCallback', referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.847 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve check-cast 48 (Landroid/app/SharedElementCallback;) in Lcom/radindustries/radman/sunshine2/MainActivity;
+06-10 15:02:41.847 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x1f at 0x07a1
+06-10 15:02:41.847 17785-17785/com.radindustries.radman.sunshine2 E/dalvikvm: Could not find class 'android.os.PersistableBundle', referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.847 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve check-cast 233 (Landroid/os/PersistableBundle;) in Lcom/radindustries/radman/sunshine2/MainActivity;
+06-10 15:02:41.847 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x1f at 0x07e8
+06-10 15:02:41.847 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: DexOpt: resolve class illegal access: Lcom/radindustries/radman/sunshine2/MainActivity; -> Landroid/support/v4/app/BaseFragmentActivityDonut;
+06-10 15:02:41.847 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.BaseFragmentActivityDonut.onCreateView, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.847 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 3965: Landroid/support/v4/app/BaseFragmentActivityDonut;.onCreateView (Ljava/lang/String;Landroid/content/Context;Landroid/util/AttributeSet;)Landroid/view/View;
+06-10 15:02:41.847 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x082c
+06-10 15:02:41.847 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.setContentTransitionManager, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.847 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 188: Landroid/app/Activity;.setContentTransitionManager (Landroid/transition/TransitionManager;)V
+06-10 15:02:41.847 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0940
+06-10 15:02:41.847 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.onProvideReferrer, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.847 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 157: Landroid/app/Activity;.onProvideReferrer ()Landroid/net/Uri;
+06-10 15:02:41.847 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x097e
+06-10 15:02:41.847 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/FragmentActivity;.doReallyStop (Z)V from Lcom/radindustries/radman/sunshine2/MainActivity;)
+06-10 15:02:41.847 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.FragmentActivity.doReallyStop, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.847 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4194: Landroid/support/v4/app/FragmentActivity;.doReallyStop (Z)V
+06-10 15:02:41.847 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x09ab
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.content.Context.getDrawable, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 434: Landroid/content/Context;.getDrawable (I)Landroid/graphics/drawable/Drawable;
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x09f5
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.showLockTaskEscapeMessage, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 219: Landroid/app/Activity;.showLockTaskEscapeMessage ()V
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0a05
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.getContentTransitionManager, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 75: Landroid/app/Activity;.getContentTransitionManager ()Landroid/transition/TransitionManager;
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0a0b
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 E/dalvikvm: Could not find class 'android.app.SharedElementCallback', referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve check-cast 48 (Landroid/app/SharedElementCallback;) in Lcom/radindustries/radman/sunshine2/MainActivity;
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x1f at 0x0ac7
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.getReferrer, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 89: Landroid/app/Activity;.getReferrer ()Landroid/net/Uri;
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0b3b
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.content.ContextWrapper.getSystemServiceName, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 523: Landroid/content/ContextWrapper;.getSystemServiceName (Ljava/lang/Class;)Ljava/lang/String;
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0bb8
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.isVoiceInteractionRoot, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 113: Landroid/app/Activity;.isVoiceInteractionRoot ()Z
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0be0
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.content.ContextWrapper.getExternalMediaDirs, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 510: Landroid/content/ContextWrapper;.getExternalMediaDirs ()[Ljava/io/File;
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0c68
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.getMediaController, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 83: Landroid/app/Activity;.getMediaController ()Landroid/media/session/MediaController;
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0cac
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.getSearchEvent, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 92: Landroid/app/Activity;.getSearchEvent ()Landroid/view/SearchEvent;
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0d2b
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/FragmentActivity;.onReallyStop ()V from Lcom/radindustries/radman/sunshine2/MainActivity;)
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.FragmentActivity.onReallyStop, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4230: Landroid/support/v4/app/FragmentActivity;.onReallyStop ()V
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0d6b
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.isVoiceInteraction, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 112: Landroid/app/Activity;.isVoiceInteraction ()Z
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0ddb
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.requestVisibleBehind, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 184: Landroid/app/Activity;.requestVisibleBehind (Z)Z
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0e40
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.shouldShowRequestPermissionRationale, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 214: Landroid/app/Activity;.shouldShowRequestPermissionRationale (Ljava/lang/String;)Z
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0e55
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.finishAndRemoveTask, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 65: Landroid/app/Activity;.finishAndRemoveTask ()V
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0e92
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.content.Context.getColor, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 431: Landroid/content/Context;.getColor (I)I
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0ee9
+06-10 15:02:41.857 17785-17785/com.radindustries.radman.sunshine2 E/dalvikvm: Could not find class 'android.app.assist.AssistContent', referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.867 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve check-cast 52 (Landroid/app/assist/AssistContent;) in Lcom/radindustries/radman/sunshine2/MainActivity;
+06-10 15:02:41.867 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x1f at 0x0f5b
+06-10 15:02:41.867 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.finishAfterTransition, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.867 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 64: Landroid/app/Activity;.finishAfterTransition ()V
+06-10 15:02:41.867 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0f7f
+06-10 15:02:41.867 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.getContentScene, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.867 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 74: Landroid/app/Activity;.getContentScene ()Landroid/transition/Scene;
+06-10 15:02:41.867 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0f85
+06-10 15:02:41.867 17785-17785/com.radindustries.radman.sunshine2 E/dalvikvm: Could not find class 'android.view.SearchEvent', referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.867 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve check-cast 2175 (Landroid/view/SearchEvent;) in Lcom/radindustries/radman/sunshine2/MainActivity;
+06-10 15:02:41.867 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x1f at 0x10d2
+06-10 15:02:41.867 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: DexOpt: resolve class illegal access: Lcom/radindustries/radman/sunshine2/MainActivity; -> Landroid/support/v4/app/BaseFragmentActivityHoneycomb;
+06-10 15:02:41.867 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.BaseFragmentActivityHoneycomb.onCreateView, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.867 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 3975: Landroid/support/v4/app/BaseFragmentActivityHoneycomb;.onCreateView (Landroid/view/View;Ljava/lang/String;Landroid/content/Context;Landroid/util/AttributeSet;)Landroid/view/View;
+06-10 15:02:41.867 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x10fd
+06-10 15:02:41.867 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.startLockTask, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.867 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 240: Landroid/app/Activity;.startLockTask ()V
+06-10 15:02:41.867 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x11b2
+06-10 15:02:41.867 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.content.ContextWrapper.checkSelfPermission, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.867 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 478: Landroid/content/ContextWrapper;.checkSelfPermission (Ljava/lang/String;)I
+06-10 15:02:41.867 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x1225
+06-10 15:02:41.867 17785-17785/com.radindustries.radman.sunshine2 E/dalvikvm: Could not find class 'android.os.PersistableBundle', referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.867 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve check-cast 233 (Landroid/os/PersistableBundle;) in Lcom/radindustries/radman/sunshine2/MainActivity;
+06-10 15:02:41.867 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x1f at 0x1329
+06-10 15:02:41.867 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: DexOpt: resolve class illegal access: Lcom/radindustries/radman/sunshine2/MainActivity; -> Landroid/support/v4/app/BaseFragmentActivityEclair;
+06-10 15:02:41.867 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.BaseFragmentActivityEclair.onBackPressedNotHandled, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.867 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 3967: Landroid/support/v4/app/BaseFragmentActivityEclair;.onBackPressedNotHandled ()V
+06-10 15:02:41.867 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x1350
+06-10 15:02:41.867 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.startPostponedEnterTransition, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.867 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 244: Landroid/app/Activity;.startPostponedEnterTransition ()V
+06-10 15:02:41.867 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x135c
+06-10 15:02:41.867 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.onEnterAnimationComplete, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:02:41.867 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 140: Landroid/app/Activity;.onEnterAnimationComplete ()V
+06-10 15:02:41.867 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x1411
+06-10 15:02:41.887 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to find class referenced in signature (Landroid/view/SearchEvent;)
+06-10 15:02:41.887 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.view.Window$Callback.onSearchRequested, referenced from method android.support.v7.view.WindowCallbackWrapper.onSearchRequested
+06-10 15:02:41.887 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve interface method 19274: Landroid/view/Window$Callback;.onSearchRequested (Landroid/view/SearchEvent;)Z
+06-10 15:02:41.887 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x72 at 0x0002
+06-10 15:02:41.887 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.view.Window$Callback.onWindowStartingActionMode, referenced from method android.support.v7.view.WindowCallbackWrapper.onWindowStartingActionMode
+06-10 15:02:41.887 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve interface method 19278: Landroid/view/Window$Callback;.onWindowStartingActionMode (Landroid/view/ActionMode$Callback;I)Landroid/view/ActionMode;
+06-10 15:02:41.887 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x72 at 0x0002
+06-10 15:02:41.887 17785-17785/com.radindustries.radman.sunshine2 D/WindowManager: getWindowManagerService, caller = android.view.ViewConfiguration.<init>:307
+06-10 15:02:41.927 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.content.res.TypedArray.getChangingConfigurations, referenced from method android.support.v7.widget.TintTypedArray.getChangingConfigurations
+06-10 15:02:41.927 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 699: Landroid/content/res/TypedArray;.getChangingConfigurations ()I
+06-10 15:02:41.927 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6e at 0x0002
+06-10 15:02:41.927 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.content.res.TypedArray.getType, referenced from method android.support.v7.widget.TintTypedArray.getType
+06-10 15:02:41.927 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 721: Landroid/content/res/TypedArray;.getType (I)I
+06-10 15:02:41.927 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6e at 0x0002
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.performSaveInstanceState (Landroid/os/Bundle;)V from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.performSaveInstanceState, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4139: Landroid/support/v4/app/Fragment;.performSaveInstanceState (Landroid/os/Bundle;)V
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0050
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.restoreViewState (Landroid/os/Bundle;)V from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.restoreViewState, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4144: Landroid/support/v4/app/Fragment;.restoreViewState (Landroid/os/Bundle;)V
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0063
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.performCreateView (Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View; from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.performCreateView, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4129: Landroid/support/v4/app/Fragment;.performCreateView (Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x008f
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.performPrepareOptionsMenu (Landroid/view/Menu;)Z from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.performPrepareOptionsMenu, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4136: Landroid/support/v4/app/Fragment;.performPrepareOptionsMenu (Landroid/view/Menu;)Z
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0098
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.performStop ()V from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.performStop, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4141: Landroid/support/v4/app/Fragment;.performStop ()V
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x00a2
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.performCreateOptionsMenu (Landroid/view/Menu;Landroid/view/MenuInflater;)Z from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.performCreateOptionsMenu, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4128: Landroid/support/v4/app/Fragment;.performCreateOptionsMenu (Landroid/view/Menu;Landroid/view/MenuInflater;)Z
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x00af
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.performOptionsItemSelected (Landroid/view/MenuItem;)Z from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.performOptionsItemSelected, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4133: Landroid/support/v4/app/Fragment;.performOptionsItemSelected (Landroid/view/MenuItem;)Z
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x014b
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.performConfigurationChanged (Landroid/content/res/Configuration;)V from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.performConfigurationChanged, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4125: Landroid/support/v4/app/Fragment;.performConfigurationChanged (Landroid/content/res/Configuration;)V
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x01dc
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.performResume ()V from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.performResume, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4138: Landroid/support/v4/app/Fragment;.performResume ()V
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x021f
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.setIndex (ILandroid/support/v4/app/Fragment;)V from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.setIndex, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4153: Landroid/support/v4/app/Fragment;.setIndex (ILandroid/support/v4/app/Fragment;)V
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0231
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.initState ()V from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.initState, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4080: Landroid/support/v4/app/Fragment;.initState ()V
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0249
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.findFragmentByWho (Ljava/lang/String;)Landroid/support/v4/app/Fragment; from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.findFragmentByWho, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4049: Landroid/support/v4/app/Fragment;.findFragmentByWho (Ljava/lang/String;)Landroid/support/v4/app/Fragment;
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0259
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.performCreate (Landroid/os/Bundle;)V from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.performCreate, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4127: Landroid/support/v4/app/Fragment;.performCreate (Landroid/os/Bundle;)V
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0273
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.instantiateChildFragmentManager ()V from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.instantiateChildFragmentManager, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4083: Landroid/support/v4/app/Fragment;.instantiateChildFragmentManager ()V
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x02c3
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.performActivityCreated (Landroid/os/Bundle;)V from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.performActivityCreated, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4124: Landroid/support/v4/app/Fragment;.performActivityCreated (Landroid/os/Bundle;)V
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x02e3
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.isInBackStack ()Z from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.isInBackStack, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4087: Landroid/support/v4/app/Fragment;.isInBackStack ()Z
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x030b
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.performPause ()V from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.performPause, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4135: Landroid/support/v4/app/Fragment;.performPause ()V
+06-10 15:02:41.937 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x031c
+06-10 15:02:41.947 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.performReallyStop ()V from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:02:41.947 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.performReallyStop, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:02:41.947 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4137: Landroid/support/v4/app/Fragment;.performReallyStop ()V
+06-10 15:02:41.947 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x03cc
+06-10 15:02:41.947 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.performContextItemSelected (Landroid/view/MenuItem;)Z from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:02:41.947 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.performContextItemSelected, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:02:41.947 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4126: Landroid/support/v4/app/Fragment;.performContextItemSelected (Landroid/view/MenuItem;)Z
+06-10 15:02:41.947 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x03dc
+06-10 15:02:41.947 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.performDestroyView ()V from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:02:41.947 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.performDestroyView, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:02:41.947 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4131: Landroid/support/v4/app/Fragment;.performDestroyView ()V
+06-10 15:02:41.947 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0474
+06-10 15:02:41.947 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.performStart ()V from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:02:41.947 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.performStart, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:02:41.947 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4140: Landroid/support/v4/app/Fragment;.performStart ()V
+06-10 15:02:41.947 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0491
+06-10 15:02:41.947 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.performDestroy ()V from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:02:41.947 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.performDestroy, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:02:41.947 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4130: Landroid/support/v4/app/Fragment;.performDestroy ()V
+06-10 15:02:41.947 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x04d4
+06-10 15:02:41.947 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.performLowMemory ()V from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:02:41.947 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.performLowMemory, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:02:41.947 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4132: Landroid/support/v4/app/Fragment;.performLowMemory ()V
+06-10 15:02:41.947 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x04da
+06-10 15:02:41.947 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.performOptionsMenuClosed (Landroid/view/Menu;)V from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:02:41.947 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.performOptionsMenuClosed, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:02:41.947 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4134: Landroid/support/v4/app/Fragment;.performOptionsMenuClosed (Landroid/view/Menu;)V
+06-10 15:02:41.947 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x052f
+06-10 15:02:41.987 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.content.res.Resources.getDrawable, referenced from method android.support.v7.widget.ResourcesWrapper.getDrawable
+06-10 15:02:41.987 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 662: Landroid/content/res/Resources;.getDrawable (ILandroid/content/res/Resources$Theme;)Landroid/graphics/drawable/Drawable;
+06-10 15:02:41.987 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6e at 0x0002
+06-10 15:02:41.987 17785-17785/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.content.res.Resources.getDrawableForDensity, referenced from method android.support.v7.widget.ResourcesWrapper.getDrawableForDensity
+06-10 15:02:41.987 17785-17785/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 664: Landroid/content/res/Resources;.getDrawableForDensity (IILandroid/content/res/Resources$Theme;)Landroid/graphics/drawable/Drawable;
+06-10 15:02:41.987 17785-17785/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6e at 0x0002
+06-10 15:02:42.017 17785-17785/com.radindustries.radman.sunshine2 I/Adreno-EGL: <qeglDrvAPI_eglInitialize:410>: EGL 1.4 QUALCOMM build: AU_LINUX_ANDROID_LNX.LA.3.5.2.1.2.04.04.02.099.026_msm8226_LNX.LA.3.5.2.1.2__release_AU ()
+                                                                                OpenGL ES Shader Compiler Version: E031.24.00.14
+                                                                                Build Date: 08/22/14 Fri
+                                                                                Local Branch: mybranch4203450
+                                                                                Remote Branch: quic/LNX.LA.3.5.2.1.2
+                                                                                Local Patches: NONE
+                                                                                Reconstruct Branch: AU_LINUX_ANDROID_LNX.LA.3.5.2.1.2.04.04.02.099.026 +  NOTHING
+06-10 15:02:42.047 17785-17785/com.radindustries.radman.sunshine2 D/OpenGLRenderer: Enabling debug mode 0
+06-10 15:02:42.317 17785-17785/com.radindustries.radman.sunshine2 I/Timeline: Timeline: Activity_idle id: android.os.BinderProxy@4217e5e8 time:116117564
+06-10 15:11:00.028 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.content.Context.getSystemService, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.028 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 450: Landroid/content/Context;.getSystemService (Ljava/lang/Class;)Ljava/lang/Object;
+06-10 15:11:00.028 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x004b
+06-10 15:11:00.028 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.stopLockTask, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.028 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 246: Landroid/app/Activity;.stopLockTask ()V
+06-10 15:11:00.028 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x00b9
+06-10 15:11:00.028 20477-20477/com.radindustries.radman.sunshine2 E/dalvikvm: Could not find class 'android.os.PersistableBundle', referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.028 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve check-cast 233 (Landroid/os/PersistableBundle;) in Lcom/radindustries/radman/sunshine2/MainActivity;
+06-10 15:11:00.028 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x1f at 0x00f1
+06-10 15:11:00.028 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.content.Context.getColorStateList, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.028 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 432: Landroid/content/Context;.getColorStateList (I)Landroid/content/res/ColorStateList;
+06-10 15:11:00.028 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0101
+06-10 15:11:00.028 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.onVisibleBehindCanceled, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.028 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 169: Landroid/app/Activity;.onVisibleBehindCanceled ()V
+06-10 15:11:00.028 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0111
+06-10 15:11:00.028 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.onWindowStartingActionMode, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.028 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 173: Landroid/app/Activity;.onWindowStartingActionMode (Landroid/view/ActionMode$Callback;I)Landroid/view/ActionMode;
+06-10 15:11:00.028 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0137
+06-10 15:11:00.028 20477-20477/com.radindustries.radman.sunshine2 E/dalvikvm: Could not find class 'android.os.PersistableBundle', referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.028 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve check-cast 233 (Landroid/os/PersistableBundle;) in Lcom/radindustries/radman/sunshine2/MainActivity;
+06-10 15:11:00.028 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x1f at 0x019a
+06-10 15:11:00.028 20477-20477/com.radindustries.radman.sunshine2 E/dalvikvm: Could not find class 'android.media.session.MediaController', referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.028 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve check-cast 191 (Landroid/media/session/MediaController;) in Lcom/radindustries/radman/sunshine2/MainActivity;
+06-10 15:11:00.028 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x1f at 0x01b2
+06-10 15:11:00.028 20477-20477/com.radindustries.radman.sunshine2 E/dalvikvm: Could not find class 'android.widget.Toolbar', referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.028 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve check-cast 2302 (Landroid/widget/Toolbar;) in Lcom/radindustries/radman/sunshine2/MainActivity;
+06-10 15:11:00.028 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x1f at 0x01bc
+06-10 15:11:00.028 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.releaseInstance, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.028 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 180: Landroid/app/Activity;.releaseInstance ()Z
+06-10 15:11:00.028 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x02dd
+06-10 15:11:00.028 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.onActivityReenter, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.028 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 121: Landroid/app/Activity;.onActivityReenter (ILandroid/content/Intent;)V
+06-10 15:11:00.028 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x02f4
+06-10 15:11:00.028 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.content.ContextWrapper.getCodeCacheDir, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.028 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 502: Landroid/content/ContextWrapper;.getCodeCacheDir ()Ljava/io/File;
+06-10 15:11:00.028 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0349
+06-10 15:11:00.038 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/FragmentActivity;.dispatchFragmentsOnCreateView (Landroid/view/View;Ljava/lang/String;Landroid/content/Context;Landroid/util/AttributeSet;)Landroid/view/View; from Lcom/radindustries/radman/sunshine2/MainActivity;)
+06-10 15:11:00.038 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.FragmentActivity.dispatchFragmentsOnCreateView, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.038 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4192: Landroid/support/v4/app/FragmentActivity;.dispatchFragmentsOnCreateView (Landroid/view/View;Ljava/lang/String;Landroid/content/Context;Landroid/util/AttributeSet;)Landroid/view/View;
+06-10 15:11:00.038 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0432
+06-10 15:11:00.038 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.getVoiceInteractor, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.038 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 100: Landroid/app/Activity;.getVoiceInteractor ()Landroid/app/VoiceInteractor;
+06-10 15:11:00.038 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0490
+06-10 15:11:00.038 20477-20477/com.radindustries.radman.sunshine2 E/dalvikvm: Could not find class 'android.app.ActivityManager$TaskDescription', referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.038 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve check-cast 23 (Landroid/app/ActivityManager$TaskDescription;) in Lcom/radindustries/radman/sunshine2/MainActivity;
+06-10 15:11:00.038 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x1f at 0x055b
+06-10 15:11:00.038 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.startActionMode, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.038 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 221: Landroid/app/Activity;.startActionMode (Landroid/view/ActionMode$Callback;I)Landroid/view/ActionMode;
+06-10 15:11:00.038 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0596
+06-10 15:11:00.038 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.showAssist, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.038 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 216: Landroid/app/Activity;.showAssist (Landroid/os/Bundle;)Z
+06-10 15:11:00.038 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x05d8
+06-10 15:11:00.038 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.postponeEnterTransition, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.038 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 177: Landroid/app/Activity;.postponeEnterTransition ()V
+06-10 15:11:00.038 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x05e3
+06-10 15:11:00.048 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.content.ContextWrapper.getNoBackupFilesDir, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.048 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 514: Landroid/content/ContextWrapper;.getNoBackupFilesDir ()Ljava/io/File;
+06-10 15:11:00.048 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0672
+06-10 15:11:00.048 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.requestPermissions, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.048 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 183: Landroid/app/Activity;.requestPermissions ([Ljava/lang/String;I)V
+06-10 15:11:00.048 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0787
+06-10 15:11:00.048 20477-20477/com.radindustries.radman.sunshine2 E/dalvikvm: Could not find class 'android.app.SharedElementCallback', referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.048 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve check-cast 48 (Landroid/app/SharedElementCallback;) in Lcom/radindustries/radman/sunshine2/MainActivity;
+06-10 15:11:00.048 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x1f at 0x07a1
+06-10 15:11:00.048 20477-20477/com.radindustries.radman.sunshine2 E/dalvikvm: Could not find class 'android.os.PersistableBundle', referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.048 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve check-cast 233 (Landroid/os/PersistableBundle;) in Lcom/radindustries/radman/sunshine2/MainActivity;
+06-10 15:11:00.048 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x1f at 0x07e8
+06-10 15:11:00.048 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: DexOpt: resolve class illegal access: Lcom/radindustries/radman/sunshine2/MainActivity; -> Landroid/support/v4/app/BaseFragmentActivityDonut;
+06-10 15:11:00.048 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.BaseFragmentActivityDonut.onCreateView, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.048 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 3965: Landroid/support/v4/app/BaseFragmentActivityDonut;.onCreateView (Ljava/lang/String;Landroid/content/Context;Landroid/util/AttributeSet;)Landroid/view/View;
+06-10 15:11:00.048 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x082c
+06-10 15:11:00.048 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.setContentTransitionManager, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.048 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 188: Landroid/app/Activity;.setContentTransitionManager (Landroid/transition/TransitionManager;)V
+06-10 15:11:00.048 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0940
+06-10 15:11:00.048 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.onProvideReferrer, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.048 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 157: Landroid/app/Activity;.onProvideReferrer ()Landroid/net/Uri;
+06-10 15:11:00.048 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x097e
+06-10 15:11:00.048 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/FragmentActivity;.doReallyStop (Z)V from Lcom/radindustries/radman/sunshine2/MainActivity;)
+06-10 15:11:00.048 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.FragmentActivity.doReallyStop, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.048 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4194: Landroid/support/v4/app/FragmentActivity;.doReallyStop (Z)V
+06-10 15:11:00.048 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x09ab
+06-10 15:11:00.058 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.content.Context.getDrawable, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.058 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 434: Landroid/content/Context;.getDrawable (I)Landroid/graphics/drawable/Drawable;
+06-10 15:11:00.058 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x09f5
+06-10 15:11:00.058 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.showLockTaskEscapeMessage, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.058 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 219: Landroid/app/Activity;.showLockTaskEscapeMessage ()V
+06-10 15:11:00.058 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0a05
+06-10 15:11:00.058 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.getContentTransitionManager, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.058 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 75: Landroid/app/Activity;.getContentTransitionManager ()Landroid/transition/TransitionManager;
+06-10 15:11:00.058 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0a0b
+06-10 15:11:00.058 20477-20477/com.radindustries.radman.sunshine2 E/dalvikvm: Could not find class 'android.app.SharedElementCallback', referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.058 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve check-cast 48 (Landroid/app/SharedElementCallback;) in Lcom/radindustries/radman/sunshine2/MainActivity;
+06-10 15:11:00.058 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x1f at 0x0ac7
+06-10 15:11:00.058 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.getReferrer, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.058 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 89: Landroid/app/Activity;.getReferrer ()Landroid/net/Uri;
+06-10 15:11:00.058 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0b3b
+06-10 15:11:00.058 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.content.ContextWrapper.getSystemServiceName, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.058 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 523: Landroid/content/ContextWrapper;.getSystemServiceName (Ljava/lang/Class;)Ljava/lang/String;
+06-10 15:11:00.058 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0bb8
+06-10 15:11:00.058 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.isVoiceInteractionRoot, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.058 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 113: Landroid/app/Activity;.isVoiceInteractionRoot ()Z
+06-10 15:11:00.058 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0be0
+06-10 15:11:00.058 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.content.ContextWrapper.getExternalMediaDirs, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.058 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 510: Landroid/content/ContextWrapper;.getExternalMediaDirs ()[Ljava/io/File;
+06-10 15:11:00.058 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0c68
+06-10 15:11:00.058 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.getMediaController, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.058 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 83: Landroid/app/Activity;.getMediaController ()Landroid/media/session/MediaController;
+06-10 15:11:00.058 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0cac
+06-10 15:11:00.058 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.getSearchEvent, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.058 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 92: Landroid/app/Activity;.getSearchEvent ()Landroid/view/SearchEvent;
+06-10 15:11:00.058 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0d2b
+06-10 15:11:00.058 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/FragmentActivity;.onReallyStop ()V from Lcom/radindustries/radman/sunshine2/MainActivity;)
+06-10 15:11:00.058 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.FragmentActivity.onReallyStop, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.058 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4230: Landroid/support/v4/app/FragmentActivity;.onReallyStop ()V
+06-10 15:11:00.058 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0d6b
+06-10 15:11:00.058 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.isVoiceInteraction, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.058 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 112: Landroid/app/Activity;.isVoiceInteraction ()Z
+06-10 15:11:00.058 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0ddb
+06-10 15:11:00.058 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.requestVisibleBehind, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.058 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 184: Landroid/app/Activity;.requestVisibleBehind (Z)Z
+06-10 15:11:00.058 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0e40
+06-10 15:11:00.068 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.shouldShowRequestPermissionRationale, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.068 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 214: Landroid/app/Activity;.shouldShowRequestPermissionRationale (Ljava/lang/String;)Z
+06-10 15:11:00.068 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0e55
+06-10 15:11:00.068 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.finishAndRemoveTask, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.068 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 65: Landroid/app/Activity;.finishAndRemoveTask ()V
+06-10 15:11:00.068 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0e92
+06-10 15:11:00.068 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.content.Context.getColor, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.068 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 431: Landroid/content/Context;.getColor (I)I
+06-10 15:11:00.068 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0ee9
+06-10 15:11:00.068 20477-20477/com.radindustries.radman.sunshine2 E/dalvikvm: Could not find class 'android.app.assist.AssistContent', referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.068 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve check-cast 52 (Landroid/app/assist/AssistContent;) in Lcom/radindustries/radman/sunshine2/MainActivity;
+06-10 15:11:00.068 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x1f at 0x0f5b
+06-10 15:11:00.068 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.finishAfterTransition, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.068 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 64: Landroid/app/Activity;.finishAfterTransition ()V
+06-10 15:11:00.068 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0f7f
+06-10 15:11:00.068 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.getContentScene, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.068 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 74: Landroid/app/Activity;.getContentScene ()Landroid/transition/Scene;
+06-10 15:11:00.068 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0f85
+06-10 15:11:00.068 20477-20477/com.radindustries.radman.sunshine2 E/dalvikvm: Could not find class 'android.view.SearchEvent', referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.068 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve check-cast 2175 (Landroid/view/SearchEvent;) in Lcom/radindustries/radman/sunshine2/MainActivity;
+06-10 15:11:00.068 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x1f at 0x10d2
+06-10 15:11:00.068 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: DexOpt: resolve class illegal access: Lcom/radindustries/radman/sunshine2/MainActivity; -> Landroid/support/v4/app/BaseFragmentActivityHoneycomb;
+06-10 15:11:00.068 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.BaseFragmentActivityHoneycomb.onCreateView, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.068 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 3975: Landroid/support/v4/app/BaseFragmentActivityHoneycomb;.onCreateView (Landroid/view/View;Ljava/lang/String;Landroid/content/Context;Landroid/util/AttributeSet;)Landroid/view/View;
+06-10 15:11:00.068 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x10fd
+06-10 15:11:00.068 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.startLockTask, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.068 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 240: Landroid/app/Activity;.startLockTask ()V
+06-10 15:11:00.068 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x11b2
+06-10 15:11:00.068 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.content.ContextWrapper.checkSelfPermission, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.068 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 478: Landroid/content/ContextWrapper;.checkSelfPermission (Ljava/lang/String;)I
+06-10 15:11:00.068 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x1225
+06-10 15:11:00.068 20477-20477/com.radindustries.radman.sunshine2 E/dalvikvm: Could not find class 'android.os.PersistableBundle', referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.068 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve check-cast 233 (Landroid/os/PersistableBundle;) in Lcom/radindustries/radman/sunshine2/MainActivity;
+06-10 15:11:00.068 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x1f at 0x1329
+06-10 15:11:00.068 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: DexOpt: resolve class illegal access: Lcom/radindustries/radman/sunshine2/MainActivity; -> Landroid/support/v4/app/BaseFragmentActivityEclair;
+06-10 15:11:00.068 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.BaseFragmentActivityEclair.onBackPressedNotHandled, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.068 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 3967: Landroid/support/v4/app/BaseFragmentActivityEclair;.onBackPressedNotHandled ()V
+06-10 15:11:00.068 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x1350
+06-10 15:11:00.068 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.startPostponedEnterTransition, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.068 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 244: Landroid/app/Activity;.startPostponedEnterTransition ()V
+06-10 15:11:00.068 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x135c
+06-10 15:11:00.078 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.app.Activity.onEnterAnimationComplete, referenced from method com.radindustries.radman.sunshine2.MainActivity.access$super
+06-10 15:11:00.078 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 140: Landroid/app/Activity;.onEnterAnimationComplete ()V
+06-10 15:11:00.078 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x1411
+06-10 15:11:00.088 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to find class referenced in signature (Landroid/view/SearchEvent;)
+06-10 15:11:00.088 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.view.Window$Callback.onSearchRequested, referenced from method android.support.v7.view.WindowCallbackWrapper.onSearchRequested
+06-10 15:11:00.088 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve interface method 19274: Landroid/view/Window$Callback;.onSearchRequested (Landroid/view/SearchEvent;)Z
+06-10 15:11:00.088 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x72 at 0x0002
+06-10 15:11:00.088 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.view.Window$Callback.onWindowStartingActionMode, referenced from method android.support.v7.view.WindowCallbackWrapper.onWindowStartingActionMode
+06-10 15:11:00.088 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve interface method 19278: Landroid/view/Window$Callback;.onWindowStartingActionMode (Landroid/view/ActionMode$Callback;I)Landroid/view/ActionMode;
+06-10 15:11:00.088 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x72 at 0x0002
+06-10 15:11:00.098 20477-20477/com.radindustries.radman.sunshine2 D/WindowManager: getWindowManagerService, caller = android.view.ViewConfiguration.<init>:307
+06-10 15:11:00.148 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.content.res.TypedArray.getChangingConfigurations, referenced from method android.support.v7.widget.TintTypedArray.getChangingConfigurations
+06-10 15:11:00.148 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 699: Landroid/content/res/TypedArray;.getChangingConfigurations ()I
+06-10 15:11:00.148 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6e at 0x0002
+06-10 15:11:00.148 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.content.res.TypedArray.getType, referenced from method android.support.v7.widget.TintTypedArray.getType
+06-10 15:11:00.148 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 721: Landroid/content/res/TypedArray;.getType (I)I
+06-10 15:11:00.148 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6e at 0x0002
+06-10 15:11:00.158 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.performSaveInstanceState (Landroid/os/Bundle;)V from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:11:00.158 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.performSaveInstanceState, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:11:00.158 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4139: Landroid/support/v4/app/Fragment;.performSaveInstanceState (Landroid/os/Bundle;)V
+06-10 15:11:00.158 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0050
+06-10 15:11:00.158 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.restoreViewState (Landroid/os/Bundle;)V from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:11:00.158 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.restoreViewState, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:11:00.158 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4144: Landroid/support/v4/app/Fragment;.restoreViewState (Landroid/os/Bundle;)V
+06-10 15:11:00.158 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0063
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.performCreateView (Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View; from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.performCreateView, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4129: Landroid/support/v4/app/Fragment;.performCreateView (Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x008f
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.performPrepareOptionsMenu (Landroid/view/Menu;)Z from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.performPrepareOptionsMenu, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4136: Landroid/support/v4/app/Fragment;.performPrepareOptionsMenu (Landroid/view/Menu;)Z
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0098
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.performStop ()V from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.performStop, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4141: Landroid/support/v4/app/Fragment;.performStop ()V
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x00a2
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.performCreateOptionsMenu (Landroid/view/Menu;Landroid/view/MenuInflater;)Z from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.performCreateOptionsMenu, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4128: Landroid/support/v4/app/Fragment;.performCreateOptionsMenu (Landroid/view/Menu;Landroid/view/MenuInflater;)Z
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x00af
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.performOptionsItemSelected (Landroid/view/MenuItem;)Z from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.performOptionsItemSelected, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4133: Landroid/support/v4/app/Fragment;.performOptionsItemSelected (Landroid/view/MenuItem;)Z
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x014b
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.performConfigurationChanged (Landroid/content/res/Configuration;)V from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.performConfigurationChanged, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4125: Landroid/support/v4/app/Fragment;.performConfigurationChanged (Landroid/content/res/Configuration;)V
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x01dc
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.performResume ()V from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.performResume, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4138: Landroid/support/v4/app/Fragment;.performResume ()V
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x021f
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.setIndex (ILandroid/support/v4/app/Fragment;)V from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.setIndex, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4153: Landroid/support/v4/app/Fragment;.setIndex (ILandroid/support/v4/app/Fragment;)V
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0231
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.initState ()V from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.initState, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4080: Landroid/support/v4/app/Fragment;.initState ()V
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0249
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.findFragmentByWho (Ljava/lang/String;)Landroid/support/v4/app/Fragment; from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.findFragmentByWho, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4049: Landroid/support/v4/app/Fragment;.findFragmentByWho (Ljava/lang/String;)Landroid/support/v4/app/Fragment;
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0259
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.performCreate (Landroid/os/Bundle;)V from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.performCreate, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4127: Landroid/support/v4/app/Fragment;.performCreate (Landroid/os/Bundle;)V
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0273
+06-10 15:11:00.168 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.instantiateChildFragmentManager ()V from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:11:00.178 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.instantiateChildFragmentManager, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:11:00.178 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4083: Landroid/support/v4/app/Fragment;.instantiateChildFragmentManager ()V
+06-10 15:11:00.178 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x02c3
+06-10 15:11:00.178 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.performActivityCreated (Landroid/os/Bundle;)V from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:11:00.178 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.performActivityCreated, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:11:00.178 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4124: Landroid/support/v4/app/Fragment;.performActivityCreated (Landroid/os/Bundle;)V
+06-10 15:11:00.178 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x02e3
+06-10 15:11:00.178 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.isInBackStack ()Z from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:11:00.178 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.isInBackStack, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:11:00.178 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4087: Landroid/support/v4/app/Fragment;.isInBackStack ()Z
+06-10 15:11:00.178 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x030b
+06-10 15:11:00.178 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.performPause ()V from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:11:00.178 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.performPause, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:11:00.178 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4135: Landroid/support/v4/app/Fragment;.performPause ()V
+06-10 15:11:00.178 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x031c
+06-10 15:11:00.178 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.performReallyStop ()V from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:11:00.178 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.performReallyStop, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:11:00.178 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4137: Landroid/support/v4/app/Fragment;.performReallyStop ()V
+06-10 15:11:00.178 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x03cc
+06-10 15:11:00.178 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.performContextItemSelected (Landroid/view/MenuItem;)Z from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:11:00.178 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.performContextItemSelected, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:11:00.178 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4126: Landroid/support/v4/app/Fragment;.performContextItemSelected (Landroid/view/MenuItem;)Z
+06-10 15:11:00.178 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x03dc
+06-10 15:11:00.178 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.performDestroyView ()V from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:11:00.178 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.performDestroyView, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:11:00.178 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4131: Landroid/support/v4/app/Fragment;.performDestroyView ()V
+06-10 15:11:00.178 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0474
+06-10 15:11:00.178 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.performStart ()V from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:11:00.178 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.performStart, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:11:00.178 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4140: Landroid/support/v4/app/Fragment;.performStart ()V
+06-10 15:11:00.178 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x0491
+06-10 15:11:00.178 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.performDestroy ()V from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:11:00.178 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.performDestroy, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:11:00.178 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4130: Landroid/support/v4/app/Fragment;.performDestroy ()V
+06-10 15:11:00.178 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x04d4
+06-10 15:11:00.178 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.performLowMemory ()V from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:11:00.178 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.performLowMemory, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:11:00.178 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4132: Landroid/support/v4/app/Fragment;.performLowMemory ()V
+06-10 15:11:00.178 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x04da
+06-10 15:11:00.178 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: DexOpt: illegal method access (call Landroid/support/v4/app/Fragment;.performOptionsMenuClosed (Landroid/view/Menu;)V from Lcom/radindustries/radman/sunshine2/ForecastFragment;)
+06-10 15:11:00.178 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v4.app.Fragment.performOptionsMenuClosed, referenced from method com.radindustries.radman.sunshine2.ForecastFragment.access$super
+06-10 15:11:00.178 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 4134: Landroid/support/v4/app/Fragment;.performOptionsMenuClosed (Landroid/view/Menu;)V
+06-10 15:11:00.178 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6f at 0x052f
+06-10 15:11:00.248 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.content.res.Resources.getDrawable, referenced from method android.support.v7.widget.ResourcesWrapper.getDrawable
+06-10 15:11:00.248 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 662: Landroid/content/res/Resources;.getDrawable (ILandroid/content/res/Resources$Theme;)Landroid/graphics/drawable/Drawable;
+06-10 15:11:00.248 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6e at 0x0002
+06-10 15:11:00.248 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.content.res.Resources.getDrawableForDensity, referenced from method android.support.v7.widget.ResourcesWrapper.getDrawableForDensity
+06-10 15:11:00.248 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 664: Landroid/content/res/Resources;.getDrawableForDensity (IILandroid/content/res/Resources$Theme;)Landroid/graphics/drawable/Drawable;
+06-10 15:11:00.248 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6e at 0x0002
+06-10 15:11:00.288 20477-20477/com.radindustries.radman.sunshine2 I/Adreno-EGL: <qeglDrvAPI_eglInitialize:410>: EGL 1.4 QUALCOMM build: AU_LINUX_ANDROID_LNX.LA.3.5.2.1.2.04.04.02.099.026_msm8226_LNX.LA.3.5.2.1.2__release_AU ()
+                                                                                OpenGL ES Shader Compiler Version: E031.24.00.14
+                                                                                Build Date: 08/22/14 Fri
+                                                                                Local Branch: mybranch4203450
+                                                                                Remote Branch: quic/LNX.LA.3.5.2.1.2
+                                                                                Local Patches: NONE
+                                                                                Reconstruct Branch: AU_LINUX_ANDROID_LNX.LA.3.5.2.1.2.04.04.02.099.026 +  NOTHING
+06-10 15:11:00.368 20477-20477/com.radindustries.radman.sunshine2 D/OpenGLRenderer: Enabling debug mode 0
+06-10 15:11:00.638 20477-20477/com.radindustries.radman.sunshine2 I/Timeline: Timeline: Activity_idle id: android.os.BinderProxy@42185580 time:116614293
+06-10 15:11:05.388 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: method Landroid/support/v7/widget/ListViewCompat;.lookForSelectablePosition incorrectly overrides package-private method with same name in Landroid/widget/ListView;
+06-10 15:11:05.388 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.support.v7.widget.ListPopupWindow$DropDownListView.drawableHotspotChanged, referenced from method android.support.v7.widget.ListPopupWindow$DropDownListView.setPressedItem
+06-10 15:11:05.388 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 16197: Landroid/support/v7/widget/ListPopupWindow$DropDownListView;.drawableHotspotChanged (FF)V
+06-10 15:11:05.388 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6e at 0x000a
+06-10 15:11:05.388 20477-20477/com.radindustries.radman.sunshine2 I/dalvikvm: Could not find method android.view.View.drawableHotspotChanged, referenced from method android.support.v7.widget.ListPopupWindow$DropDownListView.setPressedItem
+06-10 15:11:05.388 20477-20477/com.radindustries.radman.sunshine2 W/dalvikvm: VFY: unable to resolve virtual method 18894: Landroid/view/View;.drawableHotspotChanged (FF)V
+06-10 15:11:05.388 20477-20477/com.radindustries.radman.sunshine2 D/dalvikvm: VFY: replacing opcode 0x6e at 0x004a
+06-10 15:11:07.968 20477-20997/com.radindustries.radman.sunshine2 V/FetchWeatherTask: Built URI: http://api.openweathermap.org/data/2.5/forecast/daily?id=443339&APPID=e3d622935fa3b4ef335ed3c255059724
+06-10 15:11:10.088 20477-20997/com.radindustries.radman.sunshine2 V/FetchWeatherTask: Forecast JSON String: {"city":{"id":443339,"name":"Kampala District","coord":{"lon":32.58313,"lat":0.33508},"country":"UG","population":0},"cod":"200","message":0.0609,"cnt":7,"list":[{"dt":1465549200,"temp":{"day":298.4,"min":297.76,"max":298.72,"night":297.76,"eve":298.59,"morn":298.4},"pressure":900.57,"humidity":100,"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"02d"}],"speed":4.49,"deg":91,"clouds":8},{"dt":1465635600,"temp":{"day":298.13,"min":297.9,"max":298.64,"night":298.17,"eve":298.5,"morn":297.9},"pressure":900.64,"humidity":100,"weather":[{"id":801,"main":"Clouds","description":"few clouds","icon":"02d"}],"speed":5.16,"deg":140,"clouds":12},{"dt":1465722000,"temp":{"day":299.3,"min":298.07,"max":299.83,"night":298.43,"eve":299.55,"morn":298.07},"pressure":900.66,"humidity":96,"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01d"}],"speed":2.64,"deg":134,"clouds":0},{"dt":1465808400,"temp":{"day":299.44,"min":296.05,"max":299.44,"night":296.05,"eve":297.49,"morn":297.24},"pressure":899.6,"humidity":0,"weather":[{"id":500,"main":"Rain","description":"light rain","icon":"10d"}],"speed":1.4,"deg":225,"clouds":38,"rain":1.47},{"dt":1465894800,"temp":{"day":296.95,"min":294.84,"max":296.95,"night":294.84,"eve":296.08,"morn":295.88},"pressure":900.23,"humidity":0,"weather":[{"id":501,"main":"Rain","description":"moderate rain","icon":"10d"}],"speed":1.93,"deg":339,"clouds":42,"rain":4.25},{"dt":1465981200,"temp":{"day":297.17,"min":294.74,"max":297.17,"night":295.15,"eve":295.7,"morn":294.74},"pressure":899.57,"humidity":0,"weather":[{"id":501,"main":"Rain","description":"moderate rain","icon":"10d"}],"speed":2.53,"deg":289,"clouds":51,"rain":9.52},{"dt":1466067600,"temp":{"day":295.63,"min":294.6,"max":295.72,"night":294.6,"eve":295.72,"morn":294.63},"pressure":900.6,"humidity":0,"weather":[{"id":501,"main":"Rain","description":"moderate rain","icon":"10d"}],"speed":2.39,"deg":255,"clouds":68,"rain":9.36}]}
+
