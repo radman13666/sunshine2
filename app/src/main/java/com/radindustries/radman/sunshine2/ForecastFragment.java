@@ -19,10 +19,12 @@ import android.widget.AdapterView;
 import android.widget.ListView;
 
 import com.radindustries.radman.sunshine2.data.WeatherContract;
+
 /**
  * A placeholder fragment containing a simple view.
  */
-public class ForecastFragment extends Fragment implements android.support.v4.app.LoaderManager.LoaderCallbacks<Cursor> {
+public class ForecastFragment extends Fragment
+        implements android.support.v4.app.LoaderManager.LoaderCallbacks<Cursor> {
 
     private final String LOG_TAG = FetchWeatherTask.class.getSimpleName();
     //private FetchWeatherTask adapter;
@@ -56,8 +58,8 @@ public class ForecastFragment extends Fragment implements android.support.v4.app
 
     @Override
     public void onActivityCreated(@Nullable Bundle savedInstanceState) {
+        getLoaderManager().initLoader(FORECAST_LOADER, null, this);
         super.onActivityCreated(savedInstanceState);
-        //getLoaderManager().initLoader(FORECAST_LOADER, null, this);
         //Loader<Cursor> curload = onCreateLoader(FORECAST_LOADER, null);
         //curload.startLoading();
     }
@@ -139,38 +141,31 @@ public class ForecastFragment extends Fragment implements android.support.v4.app
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.fragment_main, container, false);
-
-        /*
-
-        //create an array of data to display the weather forecast
-        final String[] forecast = {
-                "Today-Sunny-88/63",
-                "Tomorrow-Sunny-56/61",
-                "Sun-Rainy-12/14",
-                "Mon-Cloudy-25/27",
-                "Tue-Rainy-20/16",
-                "Wed-Sunny-50/45",
-                "Thur-Cloudy-30/47"
-        };
-
-        //create an ArrayList that will stack the string data in the array into a list
-        List<String> weatherForecast;
-        weatherForecast = new ArrayList<>(Arrays.asList(forecast));
-
-        */
-
+//
+//        //create an array of data to display the weather forecast
+//        final String[] forecast = {
+//                "Today-Sunny-88/63",
+//                "Tomorrow-Sunny-56/61",
+//                "Sun-Rainy-12/14",
+//                "Mon-Cloudy-25/27",
+//                "Tue-Rainy-20/16",
+//                "Wed-Sunny-50/45",
+//                "Thur-Cloudy-30/47"
+//        };
+//
+//        //create an ArrayList that will stack the string data in the array into a list
+//        List<String> weatherForecast;
+//        weatherForecast = new ArrayList<>(Arrays.asList(forecast));
+//
         String locationSetting = Utility.getPreferredLocation(getActivity());
 
         // Sort order:  Ascending, by date.
         String sortOrder = WeatherContract.WeatherEntry.COLUMN_DATE + " ASC";
         Uri weatherForLocationUri = WeatherContract.WeatherEntry.buildWeatherLocationWithStartDate(
                 locationSetting, System.currentTimeMillis());
-
         Cursor cur = getActivity().getContentResolver().query(weatherForLocationUri,
                 null, null, null, sortOrder);
-
         adapter = new ForecastAdapter(getActivity(), cur, 0);
-
         //create the adapter to use in populating the ListView
 //        adapter = new ArrayAdapter<>(
 //                getActivity(), //the fragment in question
@@ -181,7 +176,6 @@ public class ForecastFragment extends Fragment implements android.support.v4.app
         //bind the adapter to the ListView
         ListView listView = (ListView) rootView.findViewById(R.id.list_item_forecast);
         listView.setAdapter(adapter);
-
         //creating an item click listener for the list
 //        listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
 //            @Override
@@ -193,9 +187,7 @@ public class ForecastFragment extends Fragment implements android.support.v4.app
 //                startActivity(intent); //starts the activity with the intent
 //            }
 //        });
-
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-
             @Override
             public void onItemClick(AdapterView adapterView, View view, int position, long l) {
                 // CursorAdapter returns a cursor at the correct position for getItem(), or null
